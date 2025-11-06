@@ -1,3 +1,10 @@
+<!-- Banner -->
+<p align="center">
+  <img src="banner.png" alt="Donaldson Okozi | Software Engineer" width="100%">
+</p>
+
+
+
 # 👋 Hi, I'm Donaldson Okozi  
 
 🚀 **Software Engineer | Full-Stack Developer | Lifelong Learner**
