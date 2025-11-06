@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="banner.png" alt="Donaldson Okozi | Software Engineer" width="100%">
+  <img src="sft.png" alt="Donaldson Okozi | Software Engineer" width="100%">
 </p>
 
 
